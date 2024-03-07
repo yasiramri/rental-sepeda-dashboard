@@ -1,1 +1,1 @@
-https://rental-sepeda-dashboard-nremexokwfhuytgdm4wq97.streamlit.app/
+https://bike-sharing-2024.streamlit.app/
