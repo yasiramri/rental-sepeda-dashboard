@@ -7,7 +7,7 @@ import streamlit as st
 sns.set(style='dark')
 
 # Memasukan data day_df
-day_df = pd.read_csv("/data/day.csv")
+day_df = pd.read_csv("data/day.csv")
 day_df.head()
 
 # Menghapus kolom yang tidak digunakan
